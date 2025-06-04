@@ -1,5 +1,7 @@
+containers
 *.html
 logs/
+**/logs/
 figures/
 *_xfm.*
 *.surf.gii
