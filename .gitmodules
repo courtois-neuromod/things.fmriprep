@@ -2,12 +2,12 @@
 	path = sourcedata/smriprep
 	url = git@github.com:courtois-neuromod/anat.smriprep.git
 	datalad-id = f3ef9683-0a58-4d2b-b4eb-d33d8fc3fd2b
+	datalad-url = https://github.com/courtois-neuromod/anat.smriprep.git
 [submodule "sourcedata/things"]
 	path = sourcedata/things
 	url = git@github.com:courtois-neuromod/things.git
 	datalad-id = 5151ad3c-321e-4111-abf0-95fee0dcbb90
-	datalad-url = git@github.com:courtois-neuromod/things.git
-	branch = rel/2021
+	datalad-url = https://github.com/courtois-neuromod/things.git
 [submodule "containers"]
 	path = containers
 	url = https://github.com/ReproNim/containers.git
