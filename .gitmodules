@@ -10,12 +10,12 @@
 	branch = rel/2021
 [submodule "containers"]
 	path = containers
-	url = git@github.com:ReproNim/containers.git
+	url = https://github.com/ReproNim/containers.git
 	datalad-id = b02e63c2-62c1-11e9-82b0-52540040489c
-	datalad-url = git@github.com:ReproNim/containers.git
+	datalad-url = https://github.com/ReproNim/containers.git
 [submodule "sourcedata/templateflow"]
 	path = sourcedata/templateflow
-	url = git@github.com:templateflow/templateflow.git
+	url = https://github.com/templateflow/templateflow.git
 	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
 	datalad-url = git@github.com:templateflow/templateflow.git
 
