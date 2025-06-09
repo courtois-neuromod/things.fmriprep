@@ -13,3 +13,4 @@
 *.nii.gz annex.largefiles=anything
 *.tgz annex.largefiles=anything
 *.sh annex.largefiles=nothing
+*.yml annex.largefiles=nothing
